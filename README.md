@@ -10,7 +10,7 @@
 *Personal Website*
 
 ## Description
-Create a Personal Website that includes the following:
+Practice creating a personal website that includes the following:
 - URL to a YouTube video
 - Widget Map
 - Drive Folder
